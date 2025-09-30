@@ -3,7 +3,7 @@ Case studies on easy-to-intermediate system designs
 
 | #  | Name                                           | Level   | Description                                     | Link / Sources |
 |----|-----------------------------------------------|---------|-------------------------------------------------|----------------|
-| 1  | URL Shortener (like bit.ly)                   | Easy    | Shorten URLs and redirect users                 |                |
+| 1  | URL Shortener (like bit.ly)                   | Easy    | Shorten URLs and redirect users                 |https://github.com/siddengineer/System-design/blob/main/url%20shortner%20system%20design.pdf                |
 | 2  | To-Do List Application                        | Easy    | CRUD operations for tasks                       |                |
 | 3  | Blog Platform (like Medium)                   | Easy    | Users write, edit, and publish blogs            |                |
 | 4  | Notes App (like Google Keep)                  | Easy    | Create, store, and manage personal notes        |                |
